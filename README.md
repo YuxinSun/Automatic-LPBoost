@@ -3,7 +3,7 @@ Automatic LPBoost to select varying-length substrings
 
 Tested under Python 2.7
 
-Requested packages:
+Required packages:
 
 numpy (v1.14 or earlier)\
 cvxopt (v1.2 or earlier)\
